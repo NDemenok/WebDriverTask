@@ -13,6 +13,6 @@ public class WebDriverProvider {
 	  {
 	   driverInstance = new ChromeDriver();
 	  }
-	  return driverInstance;
+	  return driverInstance
 	 }
 }
